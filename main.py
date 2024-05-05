@@ -24,4 +24,4 @@ async def result_model():
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the IMS-Backend API!"}
+    return {"message": "Welcome to pixelsofaditya.com"}
